@@ -1,0 +1,9 @@
+
+Installing Packages:-       
+
+   --->   pip install -r requirements.txt
+
+Run Command:-
+ 
+   --->  streamlit run inventory.py
+
