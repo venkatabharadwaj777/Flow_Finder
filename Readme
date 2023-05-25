@@ -3,7 +3,7 @@ Installing Packages
 
    pip install -r requirements.txt
 
-Run Command
+Run
  
    streamlit run inventory.py
 
