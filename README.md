@@ -1,4 +1,4 @@
 # Flow_Finder 
-checking files
+git commit -m "SAM-1 <message>"
 
 
