@@ -1,5 +1,5 @@
 
-Installing packages
+Installing
 
    pip install -r requirements.txt
 
